@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Release Manager: orchestrates release process and coordinates deployments.
+- QA Automation Engineer: builds and maintains automated testing frameworks.
+- Technical Writer: creates and maintains documentation for users and teams.
+- UX Designer: researches, designs, and validates user experiences.
+- Support Lead: manages customer support and bridges customers with internal teams.
 - Stakeholders: provide inputs and approvals.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed role descriptions.
 
 ## Key Artifacts
 - Project Charter / One-pager

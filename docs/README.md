@@ -48,6 +48,38 @@ Planning involves:
 - Perform manual QA for feature acceptance when needed
 - Ensure test coverage and quality standards are met
 
+### Release Manager
+- Coordinate and orchestrate the release process
+- Plan and schedule releases across teams
+- Track release readiness and manage deployment process
+- Monitor post-deployment metrics and coordinate rollbacks if needed
+
+### QA Automation Engineer
+- Design and maintain automated testing frameworks
+- Write and maintain automated tests (unit, integration, E2E)
+- Integrate tests into CI/CD pipelines
+- Collaborate with developers on testability
+
+### Technical Writer
+- Create and maintain user-facing and internal documentation
+- Collaborate with teams to understand features
+- Establish documentation standards and templates
+- Ensure documentation accuracy and accessibility
+
+### UX Designer
+- Research, design, and validate user experiences
+- Create wireframes, mockups, and prototypes
+- Establish and maintain design systems
+- Ensure accessibility and inclusive design practices
+
+### Support Lead
+- Manage customer support operations and ticket workflows
+- Coordinate with engineering on bugs and feature requests
+- Facilitate support readiness for releases
+- Represent customer voice in planning discussions
+
+For detailed role descriptions, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md).
+
 ## Communication Strategies
 
 ### Regular Cadences
@@ -151,6 +183,13 @@ Throughout the project lifecycle, maintain:
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+
+## Process Templates and Checklists
+
+To support effective collaboration across roles, use these templates:
+- **[Release Coordination Checklist](octoacme-release-coordination-checklist.md)**: Coordinate cross-team activities for releases
+- **[Documentation Review Checklist](octoacme-documentation-review-checklist.md)**: Ensure documentation quality and consistency
+- **[Support Handoff Template](octoacme-support-handoff-template.md)**: Facilitate smooth handoffs to support teams
 
 ## Principles
 
